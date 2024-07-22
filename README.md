@@ -6,7 +6,8 @@ Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo e
 Executar o jogo:
 
 Acesse a pasta do jogo via terminal.
-Utilize o comando node index.js para iniciar o jogo.
+Utilize o comando `npm install`para instalar todas as dependências
+Utilize o comando `node index.js` para iniciar o jogo.
 Observações:
 
 A aplicação foi desenvolvida para ser executada no terminal.
